@@ -3,11 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Chris/Desktop/book/src/library/log/system/config.java</file>
-            <file>file:/C:/Users/Chris/Desktop/book/src/library/log/system/LibraryLogSystem.java</file>
-            <file>file:/C:/Users/Chris/Desktop/book/src/library/log/system/Library.java</file>
-            <file>file:/C:/Users/Chris/Desktop/book/src/library/log/system/Patrons.java</file>
-            <file>file:/C:/Users/Chris/Desktop/book/src/library/log/system/Book.java</file>
+            <file>file:/C:/Users/axcee/Documents/clients/Library-Log-System/src/logs/logs.java</file>
+            <file>file:/C:/Users/axcee/Documents/clients/Library-Log-System/src/logs/logger.java</file>
+            <file>file:/C:/Users/axcee/Documents/clients/Library-Log-System/src/user/userdashboard.java</file>
+            <file>file:/C:/Users/axcee/Documents/clients/Library-Log-System/src/auth/register.java</file>
+            <file>file:/C:/Users/axcee/Documents/clients/Library-Log-System/src/auth/login.java</file>
+            <file>file:/C:/Users/axcee/Documents/clients/Library-Log-System/src/admin/admindashboard.java</file>
         </group>
     </open-files>
 </project-private>

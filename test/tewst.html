@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Borrow Receipt</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 40px;
+      background-color: #f8f8f8;
+    }
+
+    .receipt-container {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 25px 30px;
+      background-color: #fff;
+      border: 2px solid #333;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    h2 {
+      text-align: center;
+      margin-bottom: 10px;
+    }
+
+    hr {
+      margin: 20px 0;
+      border: none;
+      border-top: 1px dashed #aaa;
+    }
+
+    .receipt-info {
+      line-height: 1.6;
+      font-size: 16px;
+    }
+
+    .label {
+      font-weight: bold;
+    }
+
+    .footer {
+      text-align: center;
+      margin-top: 25px;
+      font-size: 14px;
+      color: #555;
+    }
+
+    .status {
+      padding: 5px 10px;
+      border-radius: 4px;
+      display: inline-block;
+      font-weight: bold;
+    }
+
+    .Returned { background: #d4edda; color: #155724; }
+    .Active { background: #fff3cd; color: #856404; }
+    .Pending { background: #f8d7da; color: #721c24; }
+  </style>
+</head>
+<body>
+
+  <div class="receipt-container">
+    <h2>Library Borrow Receipt</h2>
+    <hr>
+
+    <div class="receipt-info">
+      <p><span class="label">Receipt ID:</span> </p>
+
+      <p><span class="label">Borrower Name:</span> </p>
+      <p><span class="label">Email:</span> </p>
+      <p><span class="label">Phone:</span> </p>
+      <p><span class="label">Address:</span> </p>
+
+      <hr>
+
+      <p><span class="label">Book Title:</span> </p>
+      <p><span class="label">Author:</span> </p>
+      <p><span class="label">ISBN:</span> </p>
+
+      <hr>
+
+      <p><span class="label">Borrow Date:</span> </p>
+      <p><span class="label">Return Date:</span> </p>
+      <p><span class="label">Status:</span> </p>
+    </div>
+
+    <hr>
+    <div class="footer">
+      Thank you for using our library service.
+    </div>
+  </div>
+
+</body>
+</html>
